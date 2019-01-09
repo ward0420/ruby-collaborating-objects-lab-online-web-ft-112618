@@ -59,7 +59,7 @@ end
 
   def print_songs
     
-    songs.each {|artist| puts artist.name}
+    songs.each {|song| puts artist.name}
     
   end
   
